@@ -23,6 +23,7 @@ NUCLEOUS
 <script src='https://cdnjs.cloudflare.com/ajax/libs/matter-js/0.19.0/matter.min.js'></script> Step 2: Save the provided CSS code
 Create a new file called "style.css" and paste the provided CSS code into it.
 
+
 Step 3: Link the CSS file
 
 In the "index.html" file, link the "style.css" file by adding the following line in the head section:
@@ -33,3 +34,8 @@ Step 4: View the Result
 Save both the "index.html" and "style.css" files in the same folder and open the "index.html" file in your web browser. You should now see an atom structure with protons, neutrons, and electrons orbiting around the nucleus. The "i" icon will be visible in the bottom center of the page, and clicking on it will show the particle information. The information will be displayed in an overlay with details about the inner shell, outer shell, and nucleus of the atom.
 
 That's it! You've successfully created the HTML and CSS for the given atom structure.
+
+
+https://github.com/Samruddhi76/Atom-structure/assets/111414361/62fd7fc3-00cb-4a93-b07e-6e9cc3f54354
+
+
